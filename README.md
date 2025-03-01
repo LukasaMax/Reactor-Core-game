@@ -1,2 +1,1 @@
-# Reactor-Core-game
-Python project?
+cool game i made in python
